@@ -1,0 +1,7 @@
+https://www.assemblyai.com/app
+Goto the above Website and create a free account.
+Click on the Project option and create a project.
+Take Speech to text API and save into you device. It look like given below
+You will get 50$ credit to use this and it will only for testing.
+I have given a audio file also you will check Algorithm by using that file.
+Speech to text  assembly :-  [75ac29abfbef45ef85cb0db7a7e9c896] Enter Your API key 
